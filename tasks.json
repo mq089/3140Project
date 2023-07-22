@@ -1,0 +1,44 @@
+[
+    {
+        "ID": 1,
+        "TaskName": "CSI 3140 Final",
+        "TaskDesc": "Study for CSI 3140 Final Exam",
+        "Date": "2023-07-25"
+    },
+    {
+        "ID": 2,
+        "TaskName": "CSI 3131",
+        "TaskDesc": "Study for operating systems. Exam room in Desmarais 1140",
+        "Date": "2023-07-26"
+    },
+    {
+        "ID": 3,
+        "TaskName": "CSI 3104 Final",
+        "TaskDesc": "Study for formal languages exam",
+        "Date": "2023-07-24"
+    },
+    {
+        "ID": 4,
+        "TaskName": "CEG3185",
+        "TaskDesc": "FINAL EXAM",
+        "Date": "2023-07-18"
+    },
+    {
+        "ID": 5,
+        "TaskName": "CEG4190",
+        "TaskDesc": "FINAL",
+        "Date": "2023-07-23"
+    },
+    {
+        "ID": 6,
+        "TaskName": "CSI2372",
+        "TaskDesc": "MIDTERM",
+        "Date": "2023-07-24"
+    },
+    {
+        "ID": 7,
+        "TaskName": "CEG5139",
+        "TaskDesc": "NOTHING",
+        "Date": "2023-07-21"
+    }
+]
